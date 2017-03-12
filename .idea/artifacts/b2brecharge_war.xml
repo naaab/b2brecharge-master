@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="b2brecharge:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="b2b-0.1.0.war">
+      <element id="artifact" artifact-name="b2brecharge:war exploded" />
+    </root>
+  </artifact>
+</component>
